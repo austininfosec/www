@@ -21,10 +21,7 @@ author: Austin Infosec Founders
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Public Calendar: "https://austininfosecfounders.com/cal"
-    #- Austin Subcontractors: "https://austininfosecfounders.com/subs"
-
+  Resources: "links"
 
 ################
 # --- Logo --- #
