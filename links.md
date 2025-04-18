@@ -12,8 +12,8 @@ subtitle: Helpful information for security founders
 
 The following resources are available exclusively to Austin Infosec Founders members:
 
-- [Austin Subcontractors](https://austininfosecfounders.com/inquire-within) - Vetted directory of local contractors for home help in the Austin area. 
-- [Austin Adventures](https://austininfosecfounders.com/inquire-within) - Curated list of local activities, and daytrips in the Austin area.
+- [Austin Subcontractors](https://austininfosecfounders.com/contact-us) - Vetted directory of local contractors for home help in the Austin area. 
+- [Austin Adventures](https://austininfosecfounders.com/contact-us) - Curated list of local activities, and daytrips in the Austin area.
 
 
 ## Conferences 
@@ -22,6 +22,6 @@ Here are some publicly available resources that may be helpful for security foun
 - [Austin Hackers Anonymous (AHA!)](https://takeonme.org/) - A monthly meetup of hackers and security professionals in Austin.
 - [Austin Hacker Hoedown (AHH)](https://www.hackerhoedown.com/) - A local Austin hacker conference with a focus on information security.
 - [Ringzer0 Conference](https://ringzer0.training/) - A security conference focused on hardware and low-level security research.
-
+- [LASCON](https://lascon.org/) - A security conference by the Austin community for the Austin community.
 
 *To access gated resources, please contact a group administrator for login credentials.*
