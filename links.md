@@ -12,8 +12,8 @@ subtitle: Helpful information for security founders
 
 The following resources are available exclusively to Austin Infosec Founders members:
 
-- [Austin Subcontractors](https://austininfosecfounders.com/subs) - Vetted directory of local contractors for home help in the Austin area. 
-- [Austin Adventures](https://austininfosecfounders.com/adventures) - Curated list of local activities, and daytrips in the Austin area.
+- [Austin Subcontractors](https://austininfosecfounders.com/inquire-within) - Vetted directory of local contractors for home help in the Austin area. 
+- [Austin Adventures](https://austininfosecfounders.com/inquire-within) - Curated list of local activities, and daytrips in the Austin area.
 
 
 ## Conferences 
