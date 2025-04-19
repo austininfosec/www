@@ -10,18 +10,21 @@
 ############################
 
 # Name of website
-title: Austin Infosec Founders
+title: Austin Infosec Community
 
 # Your name to show in the footer
-author: Austin Infosec Founders
+author: Austin Infosec 
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Community Events: "events"
+  Companies: "directory"
+  VCs: "vc-landscape"
   About Us: "aboutus"
-  Resources: "links"
+
 
 ################
 # --- Logo --- #
@@ -50,7 +53,7 @@ social-network-links:
 #  email: "hello@austininfosecfounders.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: austininfosecfounders
+  github: austininfosec
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -81,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Austin Infosec Founders List
+rss-description: Austin Infosec Community List
 
 ###########################
 # --- General options --- #
@@ -96,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "austininfosecfounders.com"
+url-pretty: "austininfosec.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
