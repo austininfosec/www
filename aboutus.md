@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About Our Group
-#subtitle: Why you'd want to go on a date with me
+title: About Us
+#subtitle: Cheesecake
 ---
 
-Austin Infosec Founders is open to current founders, former founders, and aspiring founders, based in Austin. 
+# About Austin InfoSec
 
-Our gatherings welcome friends to join, but participation in our Signal group requires adherence to the following criteria:
-1.	Residency in Austin or the surrounding area.
-1.	Current or past experience as an infosec founder, or plans to become one.
+**Austin InfoSec** is the hub for all things security in Austin. 
 
+There’s *a lot* happening in Austin’s security ecosystem — from meetups and hackathons to major conferences. The purpose of this site is to centralize it all: events, communities, and opportunities, all in one place.
+
+Our mission is simple: To connect the people shaping the future of security in Austin and beyond.
 
